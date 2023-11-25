@@ -7,4 +7,12 @@
 ## 技术栈
 springboot+springsecurity+mybatisPlus+vue
 ## 使用指南
-### 后端
+### Step 1  构建数据库
+根据数据库目录下sql文件创建数据库
+### Step 2 启动后端
+修改对应配置文件即可运行
+### Step 3 启动前端
+1.启动后台管理端<br/>
+```npm run dev```<br/>
+2.启动用户端<br/>
+```npm run server```<br/>
