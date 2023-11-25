@@ -1,7 +1,10 @@
-# stoneOA
-a online OA platform to support daily work
-
-# environment
-java >=1.8
-vue >=3.0
-nodejs >=14.0
+# 石头办公(Stone OA)
+## 简介(introduction)
+### 这是一款轻量级的办公系统，使用它能够帮助公司和员工轻松的完成各种OA事项。它的主要特点概况如下：
+  1.细粒度的权限控制。后台系统为不同的登录用户分配不同的操作权限，权限控制粒度达到了按钮级别。<br/>
+  2.定制化的流程控制。后台管理员可以根据实际需求添加和修改流程。<br/>
+  3.微信小程序实时推送消息。员工在微信小程序发起申请后，系统将同步推送给审批人。<br/>
+## 技术栈
+springboot+springsecurity+mybatisPlus+vue
+## 使用指南
+### 后端
